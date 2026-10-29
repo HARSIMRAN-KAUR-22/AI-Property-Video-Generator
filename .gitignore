@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+temp_*
+temp_uploads/
+output/
+Property_Video_Generator.zip
+.env
